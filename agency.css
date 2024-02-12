@@ -227,7 +227,7 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  background-image: url('header-bg.png');
+  background-image: url('header-bg.gif');
   background-repeat: no-repeat;
   background-attachment: scroll;
   -webkit-background-size: cover;
